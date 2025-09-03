@@ -7,7 +7,7 @@ Challenge del amigo secreto de AluraLatam
 * Mostrar el nombre del amigo secreto.
 * Reiniciar el sorteo para un nuevo juego.
 ## Cómo Usar
-* Accede a la pagina del [ChallegeAmigoSecreto]((https://okaoj.github.io/AmigoSecreto/))
+* Accede a la pagina del [ChallegeAmigoSecreto](https://okaoj.github.io/AmigoSecreto/)
 * (Alternativa local) Abre el archivo index.html en tu navegador web.
 * Ingresa los nombres de los participantes en el campo de texto.
 * Haz clic en 'Añadir' para agregar cada nombre.
